@@ -1,5 +1,5 @@
 // Created on: Jan 2024
-// Created by: James Couse
+// Created by: Emmanuel Fofeyin
 // Created for: Full-adder with arduino
 
 const int DIGIT_A1 = 13;
